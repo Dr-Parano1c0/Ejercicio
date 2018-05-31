@@ -1,3 +1,5 @@
 este es el primer commit que desde mi repositorio local a uno en la nube,
 creanme la emoción es muy grande, solo entendida por otro programador,
 este es el primero de muchos...... :)
+Hola este es mi segundo cambio, si no practicas algo con el tiempo se olvida.
+Como diria el tio Ben; un gran poder requiere grandes responsabilidades :)
